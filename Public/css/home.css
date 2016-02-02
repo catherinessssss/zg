@@ -1,0 +1,95 @@
+body {
+	background: url('../images/background.png');
+}
+
+.top{
+	height: 200px;
+	width: 100%;
+	text-align: center;
+}
+
+.logo {
+	background: url('../images/top.png') no-repeat 0px;
+	background-size: contain;
+	height: 100%;
+	width: 100%;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.flexslider{
+	border : 0px !important;
+	background: transparent !important;
+}
+
+/*5-5s 800px*/
+.menu {
+	height: 800px;
+	width: 100%;
+}
+
+.menu div {
+	height: 28%;
+	width: 45%;
+	margin-top: 30px;
+	margin-left: 30px;
+	display: inline-block;
+}
+
+.menu div span {
+	background-size: contain;
+	display: block;
+	height: 75%;
+	width: 40%;
+	margin: auto;
+	margin-top: 25px;
+}
+
+.intro {
+	background-color: #5499de;
+}
+
+.intro span {
+	background: url(../images/intro_icon.png) no-repeat;
+}
+
+.case {
+	background-color: #7ac654;
+}
+
+.case span {
+	background: url(../images/case_icon.png) no-repeat;
+}
+
+.quali {
+	background-color: #5ebddd;
+}
+
+.quali span {
+	background: url(../images/quali_icon.png) no-repeat;
+}
+
+.setting {
+	background-color: #d0c44e;
+}
+
+.setting span {
+	background: url(../images/setting_icon.png) no-repeat;
+}
+
+.honor {
+	background-color: #19b24c;
+}
+
+.honor span {
+	background: url(../images/honor_icon.png) no-repeat;
+}
+
+.tele {
+	background-color: #cfb228;
+}
+
+.tele span {
+	background: url(../images/tele_icon.png) no-repeat;
+}
+
